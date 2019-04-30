@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "react": "16.8.4",
+    "react-native": "^0.59.3",
+    "react-native-fast-image": "^5.3.0"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.53.1"
+  },
+  "private": true
+}
